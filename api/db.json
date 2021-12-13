@@ -1,0 +1,105 @@
+{
+  "posts": [
+    {
+      "postTitle": "Минск - столица Беларуси",
+      "date": "9 декабря 2021",
+      "id": "2"
+    },
+    {
+      "date": "fdfd",
+      "postTitle": "fdf",
+      "id": "65l1wNw"
+    },
+    {
+      "date": "fdfd",
+      "postTitle": "fdf",
+      "id": "PpMfrei"
+    },
+    {
+      "date": "fdf",
+      "postTitle": "fdd",
+      "id": "xSpWRXj"
+    },
+    {
+      "date": "fdfdd",
+      "postTitle": "fdfd",
+      "id": "ljDiwr_"
+    },
+    {
+      "date": "fdfd",
+      "postTitle": "fdd",
+      "id": "rKAkrmL"
+    },
+    {
+      "date": "fdfd",
+      "id": "zvvPQ7g"
+    },
+    {
+      "date": "fdf",
+      "postTitle": "fdfd",
+      "id": "DO3vIaE"
+    },
+    {
+      "date": "fdf",
+      "postTitle": "",
+      "id": "COk6Omc"
+    },
+    {
+      "date": "fdfd",
+      "postTitle": "fddf",
+      "id": "4TAX4k0"
+    },
+    {
+      "date": "fdff",
+      "postTitle": "fdfdf",
+      "id": "qVwyF7Q"
+    },
+    {
+      "date": "222",
+      "postTitle": "dffd",
+      "postDescr": "HEllo WORLD",
+      "category": "",
+      "id": "feXbxha"
+    },
+    {
+      "date": "fddd",
+      "postTitle": "arse",
+      "postDescr": "fdfd",
+      "category": "1",
+      "id": "qLCw44z"
+    },
+    {
+      "date": "fdfd",
+      "postTitle": "arsen",
+      "postDescr": "fdfddf",
+      "category": "2",
+      "id": "Ph5PUo0"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "laurie10@mail.ru",
+      "login": "Arsen",
+      "password": "77777777"
+    },
+    {
+      "id": "OuNg6fr"
+    },
+    {
+      "id": "tcpn4w_"
+    },
+    {
+      "id": "O0K9e1p"
+    },
+    {
+      "id": "DTNI0e0"
+    },
+    {
+      "email": "hello@gmail.com",
+      "login": "world",
+      "password": "asdfds",
+      "id": "_XX6b71"
+    }
+  ]
+}
